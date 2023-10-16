@@ -1,0 +1,7 @@
+C:\Users\marti\Softwares\C#\DadosProduto\DadosProduto\bin\Debug\DadosProduto.exe.config
+C:\Users\marti\Softwares\C#\DadosProduto\DadosProduto\bin\Debug\DadosProduto.exe
+C:\Users\marti\Softwares\C#\DadosProduto\DadosProduto\bin\Debug\DadosProduto.pdb
+C:\Users\marti\Softwares\C#\DadosProduto\DadosProduto\obj\Debug\DadosProduto.csproj.AssemblyReference.cache
+C:\Users\marti\Softwares\C#\DadosProduto\DadosProduto\obj\Debug\DadosProduto.csproj.CoreCompileInputs.cache
+C:\Users\marti\Softwares\C#\DadosProduto\DadosProduto\obj\Debug\DadosProduto.exe
+C:\Users\marti\Softwares\C#\DadosProduto\DadosProduto\obj\Debug\DadosProduto.pdb
